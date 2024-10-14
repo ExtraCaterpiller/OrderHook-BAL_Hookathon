@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: SEE LICENSE IN LICENSE
+// SPDX-License-Identifier: MIT
 pragma solidity 0.8.24;
 
 import {IVault} from "@balancer-labs/contracts/interfaces/contracts/vault/IVault.sol";
